@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564912861912",
+    "project_id": "equipo1progmovil",
+    "storage_bucket": "equipo1progmovil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564912861912:android:abdc78c902783cc30d9dad",
+        "android_client_info": {
+          "package_name": "com.example.munche"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHWK4Dtp7N-RONQ31hog9kAivH9djwVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
