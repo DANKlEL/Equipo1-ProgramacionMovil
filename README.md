@@ -6,8 +6,11 @@
 # EasyOrder
 
 ###### PROYECTO DE DESARROLLO DE APLICACIONES MULTIPLATAFORMA
-###### Autor:  Luis García Menéndez
-###### Tutor: Luis De Blas Blázquez
+###### Alejandro Bernal Bryan
+###### Carbajal Mendoza Eduardo
+###### Martinez Nicolas Francisco Leonardo
+###### Romero Razo Alexis Daniel
+
 ###### Junio de 2019
 
 ## Tabla de contenido
