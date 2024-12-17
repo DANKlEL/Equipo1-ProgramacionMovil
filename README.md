@@ -11,7 +11,7 @@
 ###### Martinez Nicolas Francisco Leonardo
 ###### Romero Razo Alexis Daniel
 
-###### Junio de 2019
+###### UPIICSA EQUIPO 1
 
 ## Tabla de contenido
 #### 2	CONTENIDO
